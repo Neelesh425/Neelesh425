@@ -57,20 +57,6 @@ Check out my [**coding portfolio!**](https://neeleshkaportfolio.vercel.app)
 
 ---
 
-## 🎯 Featured Projects
-
-### [DocuChat](https://github.com/Neelesh425/docuchat) - AI Document Analyzer
-Built a RAG-based system for intelligent document Q&A with semantic search and source attribution.
-
-**Tech Stack:** Python, FastAPI, LangChain, Chroma, React
-
-### [TripScout](https://github.com/Neelesh425/tripscout) - Autonomous Travel Planner
-Developed an AI agent that autonomously plans trips and books flights/hotels based on user preferences.
-
-**Tech Stack:** FastAPI, React, Ollama, MongoDB
-
----
-
 ## 🎮 Beyond Code
 
 - ♟️ Chess player on [Chess.com](https://www.chess.com/member/neel477) – always ready for a match!
