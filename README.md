@@ -71,6 +71,3 @@ Check out my [**coding portfolio!**](https://neeleshkaportfolio.vercel.app)
 
 ---
 
-<p align="center">
-  <i>"Code is like chess – every move matters, and the best solutions come from thinking several steps ahead."</i>
-</p>
