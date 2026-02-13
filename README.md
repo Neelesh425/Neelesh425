@@ -78,11 +78,7 @@ Developed an AI agent that autonomously plans trips and books flights/hotels bas
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Neelesh425&theme=dark&hide_border=false)
-
----
 
 💼 **Open to collaborations and opportunities** in Software Development, AI/ML, and Full-Stack roles  
 📧 Let's build something amazing together!
